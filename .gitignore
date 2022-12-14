@@ -1,5 +1,5 @@
 # pour le cours git
-tmp/todo.*
+tmp/t*
 tmp/*
 
 # Logs
